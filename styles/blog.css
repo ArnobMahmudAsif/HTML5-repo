@@ -1,0 +1,16 @@
+nav > ul >{
+    text-align: center;
+    display: inline;
+    margin-right: 15px;
+}
+nav > li >a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 300px;
+    flex-grow: initial;
+    font-size: smaller;
+    font-size: xx-small;
+    color: darkblue;
+}
